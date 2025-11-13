@@ -1,0 +1,8 @@
+A nota do aluno Ana foi 1.0
+A nota do aluno Carolina foi 2.0
+A nota do aluno Lucas foi 2.0
+A nota do aluno João foi 2.0
+A nota do aluno Miguel foi 2.0
+A média das notas é: 1.8
+A maior nota é: 2.0
+A menor nota é: 1.0
